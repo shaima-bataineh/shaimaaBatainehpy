@@ -1,4 +1,5 @@
 #homework
+
 sum = 0
 m=0
 for i in range(5):
@@ -10,3 +11,4 @@ avg = sum/5
 print(f"total is {sum} ")
 print("avg " + str(avg))
 print(f"max is {m}")
+

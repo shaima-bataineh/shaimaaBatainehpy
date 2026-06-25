@@ -124,5 +124,15 @@ avg = sum/5
 print(f"total is {sum} ")
 print("avg " + str(avg))
 print(f"max is {m}")
+
+sum =0 
+count = 0
+for i in range(5):
+    n =int(input("enter the number : "))
+    sum+=n
+    if n% 2 == 0 :
+       count +=1
+print(f" count of even num : {count}")
+print(f" total of 5 numbers is : {sum}")
   
        
