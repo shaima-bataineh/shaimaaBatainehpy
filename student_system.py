@@ -34,7 +34,6 @@ while True :
           print(f"Mark : {students["marks"][i]}")
           print("----------------------")
 
-
     elif choice == "3":
        search_n = input("enter the name you search for : ")
        found = False
