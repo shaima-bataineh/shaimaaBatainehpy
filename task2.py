@@ -1,5 +1,4 @@
 #homework
-
 sum = 0 # لو بحطها جوا الفور رح يعمل ريست 
 m=0
 for i in range(5):# 
