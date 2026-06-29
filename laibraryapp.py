@@ -49,14 +49,13 @@ while True:
                 print(f"Year : {book['year']}")
                 print("----------------")
                 found = True
-
+                
         if not found:
             print("\nBook not found\n")
 
     # Exit from the app
     elif choice == "4":
         break
-    
     # if you dont enter the right syntax print  this warning / click enter to back the menu
     else:
      print(" \nInvalid choice, please enter 1-4 only")
