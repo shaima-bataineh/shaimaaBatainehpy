@@ -1,4 +1,4 @@
-"""
+
 name = "shaimaa jamal bataineh"
 
 P= name.title()
@@ -57,7 +57,7 @@ print(list1)
 age =[22,24,25,21,19]
 age.sort(reverse=False)
 print(age)
-"""
+
 
 names ="As a result of the examples above, the lists will now contain 4 items."
 
