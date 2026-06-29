@@ -2,7 +2,6 @@
 library =[] #list of dictionaries
 
 while True: 
-
     print("===== Library App =====")
     print("1- Add Book")
     print("2- Show Books")
