@@ -125,7 +125,7 @@ secondstudent = Member("ss","bb")
 third = Member("aya","talfah")
 
 #print(firststudent.__fname) # private error لايمكن الوصول لل برايفت الا باستخدام ال قيتر او من داخل الكلاس 
-#print(firststudent.lname)
+print(firststudent.lname)
 print(firststudent.get_fname())
 print(secondstudent.get_fname())
 #print(Member.user_num)
